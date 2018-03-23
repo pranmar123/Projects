@@ -10,7 +10,7 @@ Finished:
 
 
 Credits:
-This webpage was built by using a template that was provided by: 
+This webpage was built by building upon the template:  
 Industrious by TEMPLATED
 Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 
