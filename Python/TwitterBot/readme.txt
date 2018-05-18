@@ -1,6 +1,5 @@
 Twitter Bot
 
-
 Details:
   -This twitter bot will search through a specific hashtag on twitter and do the following:
     -Follow the user
