@@ -10,7 +10,10 @@ New features:
 - Automater script has been added. 
 
 To use:
-    -Fork the installer and run it. 
+    1. Fork the installer and run it. 
+    2. After the files have been installed, go into the automated.py script and add the username and password of your twitter
+    account. 
+    3. Run the executable. 
 
 
 Details:
